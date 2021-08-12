@@ -9,3 +9,5 @@ print(f"Resta {c} ")
 
 c = b*a
 print(f"Multiplicacion {c}")
+c = b/a
+print(f"Division {c}")
